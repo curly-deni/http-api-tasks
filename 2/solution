@@ -1,5 +1,5 @@
 PATCH /comments/3 HTTP/1.1
-Host: localhost:8080
+Host: localhost
 Content-Type: application/json
 Content-Length: 21
 
